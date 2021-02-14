@@ -1,0 +1,6 @@
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\ConsumeDTOS\bin\Debug\ConsumeDTOS.dll
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\ConsumeDTOS\bin\Debug\ConsumeDTOS.pdb
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\ConsumeDTOS\obj\Debug\ConsumeDTOS.csprojAssemblyReference.cache
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\ConsumeDTOS\obj\Debug\ConsumeDTOS.csproj.CoreCompileInputs.cache
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\ConsumeDTOS\obj\Debug\ConsumeDTOS.dll
+E:\Gruplar\YMS3201\Project\2021.01.27\ProjectNTier\ConsumeDTOS\obj\Debug\ConsumeDTOS.pdb
